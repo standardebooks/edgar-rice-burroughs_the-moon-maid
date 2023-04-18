@@ -37,14 +37,14 @@
 		<meta property="term" refines="#subject-2">sh2008107821</meta>
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008105650</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69338</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/102213988</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
@@ -61,13 +61,22 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_URL</meta>
+<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+<dc:contributor id="transcriber-2">Jim Blanchard</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Blanchard, Jim</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+<dc:contributor id="transcriber-3">Cindy Beyer</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Beyer, Cindy</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
+<dc:contributor id="transcriber-4">The online Distributed Proofreaders Canada team</dc:contributor>
+		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreaders Canada team, The</meta>
+		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdpcanada.net/</meta>
+		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-1">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://thegriggs.org/david/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
