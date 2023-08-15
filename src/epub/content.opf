@@ -61,16 +61,16 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/J._Allen_St._John</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n86809359</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
+		<dc:contributor id="transcriber-1">Al Haines</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Haines, Al</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-<dc:contributor id="transcriber-2">Jim Blanchard</dc:contributor>
+		<dc:contributor id="transcriber-2">Jim Blanchard</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Blanchard, Jim</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-<dc:contributor id="transcriber-3">Cindy Beyer</dc:contributor>
+		<dc:contributor id="transcriber-3">Cindy Beyer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Beyer, Cindy</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-<dc:contributor id="transcriber-4">The online Distributed Proofreaders Canada team</dc:contributor>
+		<dc:contributor id="transcriber-4">The online Distributed Proofreaders Canada team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Online Distributed Proofreaders Canada team, The</meta>
 		<meta property="se:url.homepage" refines="#transcriber-4">https://www.pgdpcanada.net/</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
