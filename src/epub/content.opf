@@ -38,14 +38,15 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2008105650</meta>
 		<meta property="se:subject">Science Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">With a group of companions, a young man travels to the Moon and discovers that it is hollow and inhabited; in subsequent centuries, reincarnations of the same man deal with an invasion of the Earth by the malevolent inhabitants of the Moon.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;i&gt;The Moon Maid&lt;/i&gt; was published in &lt;i&gt;Argosy&lt;/i&gt; magazine between 1923 and 1925 as a series of three short novels which were eventually combined into a single book version in 1926.&lt;/p&gt;
+			&lt;p&gt;Not content with having hollowed out the center of the Earth in his earlier novels &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/at-the-earths-core"&gt;At the Earth’s Core&lt;/a&gt;&lt;/i&gt; (1914) and &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs/pellucidar"&gt;Pellucidar&lt;/a&gt;&lt;/i&gt; (1915), in &lt;i&gt;The Moon Maid&lt;/i&gt; &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Edgar Rice Burroughs&lt;/a&gt; has his hero voyage to the Moon, which also turns out to be hollow and inhabited on the inside by human-like creatures. The hero and his companion have a series of adventures there, and discover both the sophisticated Va-gas and the malevolent Kalkars. In subsequent parts of the book, linked by a framing device of reincarnation, the hero’s descendants have to fight against an invasion of the Earth by the Kalkars. In these episodes, the American flag has become a holy relic or totem, uniting the human rebels.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Moon Maid&lt;/i&gt; seems to have been well-received at the time by readers. A number of critics consider it to be Burroughs’ best work of science fiction. However, it is not as well-known today as his &lt;a href="https://standardebooks.org/collections/martian"&gt;Barsoom&lt;/a&gt; series set on Mars, or his &lt;a href="https://standardebooks.org/collections/tarzan"&gt;Tarzan&lt;/a&gt; novels.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/69338</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/102213988</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_Maid</meta>
