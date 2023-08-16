@@ -2,5 +2,5 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 .musical-note{
-	font-variant: all-petite-caps;
+	font-variant: all-small-caps;
 }
