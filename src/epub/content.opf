@@ -48,7 +48,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/102213988</dc:source>
 		<meta property="se:production-notes">Note that “twentyfour” is flagged by find-mismatched-dashes but “The Twentyfour” is a political entity in the novel.</meta>
 		<meta property="se:word-count">125540</meta>
-		<meta property="se:reading-ease.flesch">65.25</meta>
+		<meta property="se:reading-ease.flesch">65.35</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Moon_Maid</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-moon-maid</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
